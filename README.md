@@ -1,6 +1,6 @@
 # Portfolio Porject
 
-## Made by `Backwards`
+## Made by `Gemsioxa`
 
 ## Available Scripts
 
